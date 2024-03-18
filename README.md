@@ -39,12 +39,21 @@ A lab employing Elastic SIEM for log aggregation from Linux Fedora instances hos
 <img src="pic5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6. Sanitization complete:  <br/>
+<img src="pic6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7. Observe the wiped disk:  <br/>
+<img src="pic7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+8. Observe the wiped disk:  <br/>
+<img src="pic8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+9. Observe the wiped disk:  <br/>
+<img src="pic9.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+10. Observe the wiped disk:  <br/>
+<img src="pic10.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
