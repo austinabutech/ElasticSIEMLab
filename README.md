@@ -27,8 +27,8 @@ A lab employing Elastic SIEM for log aggregation from Linux Fedora instances hos
 <img src="Pic2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Elastic agent installed successfully on Fedora VM <br/>
+<img src="pic3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
