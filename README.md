@@ -47,13 +47,13 @@ A lab employing Elastic SIEM for log aggregation from Linux Fedora instances hos
  <br>A - Horizontal axis (Time stamp) and Vertical axis (counts)</br>
 <img src="pic7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-8. Observe the wiped disk:  <br/>
-<img src="pic8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+8. More nmap logs generated  <br/>
+<img src="pic80.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-9. Observe the wiped disk:  <br/>
+9. Create rule for alert:  <br/>
 <img src="pic9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-10. Observe the wiped disk:  <br/>
+10. Select email alert to designated administrator:  <br/>
 <img src="pic10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
