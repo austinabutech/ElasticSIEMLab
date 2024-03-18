@@ -20,11 +20,11 @@ A lab employing Elastic SIEM for log aggregation from Linux Fedora instances hos
 
 <p align="center">
 Launch and obtain agent from elastic SIEM: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Picture1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2.	Push and install agent on Amazon linux Fedora VM using curl command below:  <br/>
+<img src="Picture2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
