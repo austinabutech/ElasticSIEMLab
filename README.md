@@ -19,8 +19,8 @@ A lab employing Elastic SIEM for log aggregation from Linux Fedora instances hos
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch and obtain agent from elastic SIEM: <br/>
-<img src="Picture1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1.	Obtain elastic agent and add to Fedora host. Integration> elastic defence> add integration <br/>
+<img src="pic1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 2.	Push and install agent on Amazon linux Fedora VM using curl command below:  <br/>
