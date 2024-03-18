@@ -24,7 +24,7 @@ A lab employing Elastic SIEM for log aggregation from Linux Fedora instances hos
 <br />
 <br />
 2.	Push and install agent on Amazon linux Fedora VM using curl command below:  <br/>
-<img src="Picture2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Pic2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
